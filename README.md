@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SaSak91097
-- 👀 I’m interested in C++, C#, java and python!!!
-- 🌱 I’m currently learning about C++ and C#!
+- 👋 Hi, I’m SaSak91097
+- 👀 I’m interested in C++, Rust, Python and DirectX!!!
+- 🌱 I’m currently learning about C++, Python and Rust!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach meeach me ... ...
 
